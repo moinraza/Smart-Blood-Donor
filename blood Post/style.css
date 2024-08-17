@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+}
+.container{
+    background-color: aquamarine;
+    max-width: 500px;
+    margin: auto;
+    height: 530px;
+    border: black;
+    
+}
+.label{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.form-contrl{
+    margin-bottom:  32px;
+    margin-left: 35px;
+    text-size-adjust: 20px;
+    height: 30px;
+    width: 230px;
+    
+    
+
+}
